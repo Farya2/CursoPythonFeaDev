@@ -1,0 +1,2 @@
+# CursoPythonFeaDev
+Curso Python USP
